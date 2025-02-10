@@ -1,6 +1,6 @@
 {
   "name": "@tvolex/kafkajs",
-  "version": "2.2.5",
+  "version": "2.2.7",
   "description": "A modern Apache Kafka client for node.js (Timeout fix)",
   "author": "Tulio Ornelas <ornelas.tulio@gmail.com>",
   "main": "index.js",
